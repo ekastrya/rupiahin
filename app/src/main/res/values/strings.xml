@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Rupiahin</string>
+    <string name="label_nominal_usd">Nominal (Dalam US Dollar) :</string>
+    <string name="label_btn_hitung">Hitung</string>
+    <string name="label_keterangan">Masukkan nominal USD dan klik tombol HITUNG, hasil konversi akan muncul di bawah:</string>
+    <string name="label_hasil_konversi">Nominal Hasil Konversi (Dalam Rupiah) :</string>
+    <string name="text_placeholder_hasil">Rp</string>
+    <string name="label_credit_background">Photo by Elena Saharova from Pexels</string>
+    <string name="label_bg_content_description">App Background</string>
+    <string name="label_placeholder_edt_nominal">Masukkan angka (bulat atau desimal)</string>
 </resources>
