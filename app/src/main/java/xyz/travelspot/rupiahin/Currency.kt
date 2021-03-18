@@ -1,4 +1,4 @@
-package com.example.rupiahin
+package xyz.travelspot.rupiahin
 
 data class Currency(val idr_value: String)
 //{

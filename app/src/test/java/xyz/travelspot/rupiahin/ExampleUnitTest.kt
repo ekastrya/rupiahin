@@ -1,4 +1,4 @@
-package com.example.rupiahin
+package xyz.travelspot.rupiahin
 
 import org.junit.Test
 

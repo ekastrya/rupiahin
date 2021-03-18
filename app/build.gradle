@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.rupiahin"
+        applicationId "xyz.travelspot.rupiahin"
         minSdkVersion 28
         targetSdkVersion 30
         versionCode 1

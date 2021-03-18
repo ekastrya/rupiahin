@@ -1,4 +1,4 @@
-package com.example.rupiahin
+package xyz.travelspot.rupiahin
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
