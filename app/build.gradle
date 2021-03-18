@@ -11,8 +11,8 @@ android {
         applicationId "xyz.travelspot.rupiahin"
         minSdkVersion 28
         targetSdkVersion 30
-        versionCode 4
-        versionName "1.3"
+        versionCode 7
+        versionName "1.7"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
